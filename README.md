@@ -4,16 +4,19 @@
 The program will parse all the data related the movies in **IMDB_Top5000-SEECS.csv** file and save the data in apropriate data strcuture. Now the user can do simple operation on the data and extract the information like "in which movies tom cruise acted" 
 or "in which movie two specific actors were co-actors"
 <br>
+
 ![coActors](samplePics/searchCoactors.png)
 
 <br>
 or "movies that fall under the genre of family".
 <br>
+
 ![moviesGenre](samplePics/searchGenre.png)
 
 <br>
 or you can simply search a movie
 <br>
+
 ![searchMovie](samplePics/searchMovies.png)
 
 
